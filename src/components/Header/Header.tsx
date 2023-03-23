@@ -63,7 +63,7 @@ const Header = ({ open, handleDrawerOpen }: ChildProps) => {
                 </IconButton>
                 <LanguageIcon fontSize='large' sx = {{mr: 1}}/>
                 <Typography variant="h6" noWrap component="div">
-                    World News
+                    News
                 </Typography>
                 <ButtonGroup
                     sx={{
